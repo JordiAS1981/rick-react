@@ -1,0 +1,45 @@
+
+.navbar{
+    font-size: large;
+    margin: 16px; 
+}
+
+ul{
+    margin: 16px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.imagen_navbar{
+    display: flex;
+    width: 120px;
+    margin-left: 20px;
+}
+
+.link_nav {
+    margin-left: 310px;
+    display: flex;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    padding: 18px;
+    margin: 31px;
+}
+
+#navbar-elements{
+    background-color: #030603; 
+    border-radius: 14px;
+}
+
+#navbar-elements:hover {
+    background-color: #b54433;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

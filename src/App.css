@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  background: url('https://media.tenor.com/R4_sUN8G5uYAAAAd/rick-and-morty.gif') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.user-display {
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
